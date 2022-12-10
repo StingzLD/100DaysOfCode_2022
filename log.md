@@ -1,5 +1,20 @@
 # 100 Days of Python - Log
 
+### Day 2: December 9, 2022
+
+**Today's Progress**
+* Completed Day 2 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
+](https://www.udemy.com/course/100-days-of-code/)
+
+**Link to work**
+* [Day 2 - Replit](https://replit.com/@StingzLD/100DaysOfPython-Day-2)
+
+**Thoughts**
+Although this course is still in the very basics, I have decided to just go through 
+the motions, as there may be a piece of information I did not know or a trick that I 
+might learn. Either way, Day 2 complete!
+
+
 ### Day 1: December 8, 2022
 
 **Today's Progress**
