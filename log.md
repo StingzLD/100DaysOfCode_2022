@@ -1,5 +1,20 @@
 # 100 Days of Python - Log
 
+### Day 3: December 10, 2022
+
+**Today's Progress**
+* Completed Day 3 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
+](https://www.udemy.com/course/100-days-of-code/)
+
+**Link to work**
+* [Day 3 - Replit](https://replit.com/@StingzLD/100DaysOfPython-Day-3)
+
+**Thoughts**
+The project for today might have been a simplistic one, but it was definitely fun and 
+got the creative jices flowing. It was a *Choose Your Own Adventure* game called 
+**Treasure Island**. If you want to take a peek at it, just head hit the Replit link 
+above and take a look at the treasure-island.py file.
+
 ### Day 2: December 9, 2022
 
 **Today's Progress**
