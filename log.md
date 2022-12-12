@@ -1,5 +1,23 @@
 # 100 Days of Python - Log
 
+### Day 5: December 12, 2022
+
+**Today's Progress**
+* Completed Day 5 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
+](https://www.udemy.com/course/100-days-of-code/)
+
+**Link to work**
+* [Day 5 - Replit](https://replit.com/@StingzLD/100DaysOfPython-Day-5)
+* [Password Generator](https://github.com/StingzLD/password-generator)
+
+**Thoughts**
+* Today's project was actually a pretty beneficial one, as it is something I use on a 
+  regular basis for my job: A Password Generator. The general creation of the tool may 
+  not have been very complex, however I did end up searching for and finding a new 
+  method I have never used before: Shuffle. I have never had a need to shuffle a list 
+  before, so it was pretty nifty to learn something new. I am definitely going to 
+  continue to refine this password generator and cater it towards my exact needs.
+
 ### Day 4: December 11, 2022
 
 **Today's Progress**
@@ -17,7 +35,7 @@
   evaluations which would not scale well if there were more than three choices, so I 
   may work on that later. The trick to this, though, would be simplifying the logic 
   while also maintaining the detailed results of the game. For now, though, the game 
-  is fully functional and a fun way to kill a minute or two. 
+  is fully functional and a fun way to kill a minute or two.
 
 ### Day 3: December 10, 2022
 
@@ -30,7 +48,7 @@
 
 **Thoughts**
 * The project for today might have been a simplistic one, but it was definitely fun and 
-got the creative jices flowing. It was a *Choose Your Own Adventure* game called 
+got the creative juices flowing. It was a *Choose Your Own Adventure* game called 
 **Treasure Island**. If you want to take a peek at it, just head hit the Replit link 
 above and take a look at the treasure-island.py file.
 
@@ -47,7 +65,6 @@ above and take a look at the treasure-island.py file.
 * Although this course is still in the very basics, I have decided to just go through 
 the motions, as there may be a piece of information I did not know or a trick that I 
 might learn. Either way, Day 2 complete!
-
 
 ### Day 1: December 8, 2022
 
