@@ -1,5 +1,21 @@
 # 100 Days of Python - Log
 
+### Day 6: December 13, 2022
+
+**Today's Progress**
+* Completed Day 6 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
+](https://www.udemy.com/course/100-days-of-code/)
+
+**Link to work**
+* [Day 6 - Replit](https://replit.com/@StingzLD/100DaysOfPython-Day-6)
+
+**Thoughts**
+* I always love games, so adding [Reeborg's World](https://reeborg.ca/reeborg.html) to 
+  the course was fun. I had actually never seen a "jumping hurdles" or "maze" 
+  challenge before, so although easy to solve, it was still much more enjoyable than 
+  your usual while loop exercises. This is something I will probably end up showing to 
+  the kids when they want to move on from blockly and start learning Python.
+
 ### Day 5: December 12, 2022
 
 **Today's Progress**
