@@ -1,5 +1,25 @@
 # 100 Days of Python - Log
 
+### Day 7: December 14, 2022
+
+**Today's Progress**
+* Completed Day 7 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
+](https://www.udemy.com/course/100-days-of-code/)
+
+**Link to work**
+* [Day 7 - Replit](https://replit.com/@StingzLD/100DaysOfPython-Day-7)
+* [Hangman](https://github.com/StingzLD/hangman)
+
+**Thoughts**
+* Yet another fun little game, and one that we are all very familiar with: [Hangman.
+](https://github.com/StingzLD/hangman) This was a nice exercise to really get my 
+  brain back up and running, as it allowed me to think about how to accomplish certain 
+  things in ways I have not used in a while. For example, the clearing of the screen 
+  to refresh the content, as well as when and how to display certain content in 
+  relation to that clear. My kiddos have really been loving Hangman the last few weeks,
+  so this will be something nice to show them and play over the upcoming Christmas 
+  break.  
+
 ### Day 6: December 13, 2022
 
 **Today's Progress**
