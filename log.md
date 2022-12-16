@@ -1,5 +1,18 @@
 # 100 Days of Python - Log
 
+### Day 8: December 15, 2022
+
+**Today's Progress**
+* Completed Day 8 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
+](https://www.udemy.com/course/100-days-of-code/)
+
+**Link to work**
+* [Day 8 - Replit](https://replit.com/@StingzLD/100DaysOfPython-Day-8)
+
+**Thoughts**
+* Sadly, there was nothing new with today's work, as I have already created Caesar's 
+  Cipher scripts before. However, it was a good refresher on the topic.
+
 ### Day 7: December 14, 2022
 
 **Today's Progress**
