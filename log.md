@@ -1,5 +1,20 @@
 # 100 Days of Python - Log
 
+### Day 9: December 16, 2022
+
+**Today's Progress**
+* Completed Day 9 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
+](https://www.udemy.com/course/100-days-of-code/)
+
+**Link to work**
+* [Day 9 - Replit](https://replit.com/@StingzLD/100DaysOfPython-Day-9)
+
+**Thoughts**
+* Today's part of the course was definitely only geared towards learning a building 
+  block of Python, one that I am definitely familiar with. As such, there was nothing 
+  for me to learn today. But of course, it is always good to get some practice in to 
+  keep it fresh in your mind.
+
 ### Day 8: December 15, 2022
 
 **Today's Progress**
