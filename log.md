@@ -8,9 +8,10 @@
 
 **Link to work**
 * [Day 8 - Replit](https://replit.com/@StingzLD/100DaysOfPython-Day-8)
+* [Caesar Cipher](https://github.com/StingzLD/caesar-cipher)
 
 **Thoughts**
-* Sadly, there was nothing new with today's work, as I have already created Caesar's 
+* Sadly, there was nothing new with today's work, as I have already created Caesar 
   Cipher scripts before. However, it was a good refresher on the topic.
 
 ### Day 7: December 14, 2022
