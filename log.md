@@ -1,5 +1,20 @@
 # 100 Days of Python - Log
 
+### Day 10: December 17, 2022
+
+**Today's Progress**
+* Completed Day 10 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
+](https://www.udemy.com/course/100-days-of-code/)
+
+**Link to work**
+* [Day 10 - Replit](https://replit.com/@StingzLD/100DaysOfPython-Day-10)
+* [Calculator](https://github.com/StingzLD/calculator)
+
+**Thoughts**
+* This was the first time I was tasked with making a calculator. Although it was 
+  simplistic, as the arithmetic is built-in to Python already, it is always nice to 
+  create something that is actually useful.
+
 ### Day 9: December 16, 2022
 
 **Today's Progress**
