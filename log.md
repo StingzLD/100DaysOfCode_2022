@@ -1,5 +1,20 @@
 # 100 Days of Python - Log
 
+### Day 11: December 18, 2022
+
+**Today's Progress**
+* Started Day 11 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
+](https://www.udemy.com/course/100-days-of-code/)
+
+**Link to work**
+* [Blackjack](https://github.com/StingzLD/blackjack)
+
+**Thoughts**
+* Today was working on the first capstone of the course: Blackjack. I did not get 
+  nearly as much completed as I wanted to, so I will have to pick it back up tomorrow 
+  and play catch up.
+
+
 ### Day 10: December 17, 2022
 
 **Today's Progress**
