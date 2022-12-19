@@ -1,5 +1,27 @@
 # 100 Days of Python - Log
 
+### Day 12: December 19, 2022
+
+**Today's Progress**
+* Completed Day 11 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
+](https://www.udemy.com/course/100-days-of-code/)
+
+**Link to work**
+* [Blackjack](https://github.com/StingzLD/blackjack)
+
+**Thoughts**
+* Per usual, I took a bit longer on this than anticipated. This is because I get 
+  really into making sure everything is working one hundred percent as intended. With 
+  this, I add debugging, see what is actually happening (even if the result is correct,
+  is it actually getting that result in the intended way?), move code around, clean 
+  code up, etc. 
+  <br><br>
+  There is definitely still work that can be done to make the code much cleaner, and I 
+  have already added in extra art to make the user experience that much better in the 
+  next version of the game, but for the sake of moving forward with the course I am 
+  calling it done for the time being. I may still work on it on the side, but it will 
+  definitely be lower priority than anything else until I complete the course.
+
 ### Day 11: December 18, 2022
 
 **Today's Progress**
