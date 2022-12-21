@@ -1,5 +1,28 @@
 # 100 Days of Python - Log
 
+### Day 13: December 20, 2022
+
+**Today's Progress**
+* Completed Day 12 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
+](https://www.udemy.com/course/100-days-of-code/)
+* Completed Day 13 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
+](https://www.udemy.com/course/100-days-of-code/)
+
+**Link to work**
+* [Day 12 - Replit](https://replit.com/@StingzLD/100DaysOfPython-Day-12)
+* [Day 13 - Replit](https://replit.com/@StingzLD/100DaysOfPython-Day-13)
+
+**Thoughts**
+* Funny enough, Day 12's project was labelled as the "final project", which was 
+  significantly more simplistic than making the Blackjack game. Or maybe it was only more 
+  simplistic because I took the Blackjack game too far past what was intended, even 
+  though there are still improvements I want to make the game? Either way, Day 12 has 
+  been completed.
+* Day 13 was all about debugging, which was really no more debugging than has already 
+  been performed throughout this course's exercises anyway. Thankfully, since I took 
+  so long on the Blackjack game, this allowed me to complete two "days" in one day, so 
+  I am now all caught up!
+
 ### Day 12: December 19, 2022
 
 **Today's Progress**
