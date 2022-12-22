@@ -1,5 +1,23 @@
 # 100 Days of Python - Log
 
+### Day 14: December 21, 2022
+
+**Today's Progress**
+* Completed Day 14 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
+](https://www.udemy.com/course/100-days-of-code/)
+
+**Link to work**
+* [Day 14 - Replit](https://replit.com/@StingzLD/100DaysOfPython-Day-14)
+
+**Thoughts**
+* This was the last lesson labelled as "beginner", so I am excited to finally move 
+  past this section. This project was another higher/lower game, just with a twist. 
+  Overall, it was still a very simplistic game, though. In fact, I ended up writing 
+  the game in half of the lines of code that as the solution code had, as they had 
+  made it far more difficult than it needed to be by adding in functions that would 
+  never be used more than once. I mean, I get it. They want to showcase everything 
+  that has been learned up to this point, but it was truly unnecessary in my opinion.
+
 ### Day 13: December 20, 2022
 
 **Today's Progress**
