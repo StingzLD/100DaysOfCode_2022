@@ -1,5 +1,25 @@
 # 100 Days of Python - Log
 
+### Day 16: December 23, 2022
+
+**Today's Progress**
+* Completed Day 16 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
+](https://www.udemy.com/course/100-days-of-code/)
+
+**Link to work**
+* [Day 16 - Replit](https://replit.com/@StingzLD/100DaysOfPython-Day-16)
+* [Coffee Machine](https://github.com/StingzLD/coffee-machine)
+
+**Thoughts**
+* Today was a good day for the course. It has now progressed to OOP, which is honestly 
+  one of my weaker points of programming. I understand the concept, and I can write 
+  and use the classes no problem, but my brain does not always think in OOP when 
+  creating a script. This is admittedly due to not having a lot of practice with it, 
+  as the vast majority of the scripts I have written over the years are written in 
+  PowerShell and are either single task scripts or scripts that iterate through CSVs to 
+  perform various tasks based on the data within them. So even though today's exercise was
+  just a conversion of the coffee machine code, it was definitely good practice.
+
 ### Day 15: December 22, 2022
 
 **Today's Progress**
@@ -8,7 +28,7 @@
 
 **Link to work**
 * [Day 15 - Replit](https://replit.com/@StingzLD/100DaysOfPython-Day-15)
-* [Coffee Machine](https://github.com/StingzLD/coffee_machine)
+* [Coffee Machine](https://github.com/StingzLD/coffee-machine/tree/main/old)
 
 **Thoughts**
 * Making a coffee machine was a neat little exercise. I had never really thought about 
