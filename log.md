@@ -1,5 +1,20 @@
 # 100 Days of Python - Log
 
+### Day 15: December 22, 2022
+
+**Today's Progress**
+* Completed Day 15 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
+](https://www.udemy.com/course/100-days-of-code/)
+
+**Link to work**
+* [Day 15 - Replit](https://replit.com/@StingzLD/100DaysOfPython-Day-15)
+* [Coffee Machine](https://github.com/StingzLD/coffee_machine)
+
+**Thoughts**
+* Making a coffee machine was a neat little exercise. I had never really thought about 
+  making a vending machine style program before, so it was good for my brain to get 
+  that experience in.
+
 ### Day 14: December 21, 2022
 
 **Today's Progress**
