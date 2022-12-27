@@ -1,5 +1,27 @@
 # 100 Days of Python - Log
 
+### Day 17: December 27, 2022
+
+**Today's Progress**
+* Completed Day 17 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
+](https://www.udemy.com/course/100-days-of-code/)
+
+**Link to work**
+* [Trivia Game](https://github.com/StingzLD/trivia-game)
+
+**Thoughts**
+* As you can see, I took a nice little break to spend 100% of my time with the family. 
+  I think we can all agree that is completely within the rules. Now back to business!
+  <br><br>
+  I enjoy the fact that this course did not just introduce OOP and then move on to the 
+  next thing. It actually continued using it with a whole new project, which was nice. 
+  Creating the Trivia Game was another good round of practice with writing OOP, and 
+  although the game is technically complete per the course requirements, I have more I 
+  want to add to it (specifically working with APIs to pull the trivia data). In fact, I 
+  even created a "next_step.py" file containing some of the changes I have already 
+  started working on, and I updated the README.md file to 
+  specify that more work is to be done on it.
+
 ### Day 16: December 23, 2022
 
 **Today's Progress**
@@ -7,7 +29,6 @@
 ](https://www.udemy.com/course/100-days-of-code/)
 
 **Link to work**
-* [Day 16 - Replit](https://replit.com/@StingzLD/100DaysOfPython-Day-16)
 * [Coffee Machine](https://github.com/StingzLD/coffee-machine)
 
 **Thoughts**
@@ -27,7 +48,6 @@
 ](https://www.udemy.com/course/100-days-of-code/)
 
 **Link to work**
-* [Day 15 - Replit](https://replit.com/@StingzLD/100DaysOfPython-Day-15)
 * [Coffee Machine](https://github.com/StingzLD/coffee-machine/tree/main/old)
 
 **Thoughts**
