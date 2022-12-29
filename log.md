@@ -1,5 +1,25 @@
 # 100 Days of Python - Log
 
+### Day 18: December 28, 2022
+
+**Today's Progress**
+* Completed Day 18 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
+](https://www.udemy.com/course/100-days-of-code/)
+
+**Link to work**
+* [Hirst Painting](https://github.com/StingzLD/hirst-painting)
+* [Day 18 - Replit](https://replit.com/@StingzLD/100DaysOfPython-Day-18)
+
+**Thoughts**
+* Today was an interesting day. I got to further my dumbfoundness for contemporary art because it just makes zero 
+  sense as to why these pieces sell for so much money. In this case, it is the dot painting by Damien Hirst. It is 
+  literally just randomly colored dots organized in a grid. One of them even sold for over 19 MILLION DOLLARS!!! so 
+  incredibly ridiculous...
+  <br><br>
+  At any rate, today's project was to create one of these paintings by extracting colors from an image and then 
+  creating the "painting" via the turtle module. Pretty fun little project that had me use a new module I have never 
+  touched, as well as use some more of the turtle module that I have never used before.
+
 ### Day 17: December 27, 2022
 
 **Today's Progress**
