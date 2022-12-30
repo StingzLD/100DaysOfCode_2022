@@ -1,5 +1,29 @@
 # 100 Days of Python - Log
 
+### Day 19: December 29, 2022
+
+**Today's Progress**
+* Completed Day 19 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
+](https://www.udemy.com/course/100-days-of-code/)
+
+**Link to work**
+* [Etch-A-Sketch](https://github.com/StingzLD/etch-a-sketch)
+* [Turtle Race](https://github.com/StingzLD/turtle-race)
+
+**Thoughts**
+* Turtles. Turtles everywhere! Continuing with the turtle module, there were two 
+  different projects completed today.
+* The first project was to create an Etch-A-Sketch, which ended up being much simpler
+  than I was anticipating. When you actually think about it, the mechanics are
+  ridiculously easy: move forward/backward and rotate your heading.
+* This was followed by creating a turtle race, where you have a set of turtles line up at 
+  the starting line, you make a bet on who will win, they move forward at random 
+  intervals until one of them crosses the finish line, then you get told if you won or 
+  lost. Naturally, I took it upon myself to make this more advanced than it really 
+  need to be by autoscaling the turtle size, starting y positions, and the finish line 
+  based on the sizes chosen for the screen width and height. What can I say? I am a 
+  stickler for improving things.
+
 ### Day 18: December 28, 2022
 
 **Today's Progress**
@@ -11,14 +35,16 @@
 * [Day 18 - Replit](https://replit.com/@StingzLD/100DaysOfPython-Day-18)
 
 **Thoughts**
-* Today was an interesting day. I got to further my dumbfoundness for contemporary art because it just makes zero 
-  sense as to why these pieces sell for so much money. In this case, it is the dot painting by Damien Hirst. It is 
-  literally just randomly colored dots organized in a grid. One of them even sold for over 19 MILLION DOLLARS!!! so 
-  incredibly ridiculous...
+* Today was an interesting day. I got to further my dumbfoundness for contemporary art 
+  because it just makes zero sense as to why these pieces sell for so much money. In 
+  this case, it is the dot painting by Damien Hirst. It is literally just randomly 
+  colored dots organized in a grid. One of them even sold for over 19 MILLION DOLLARS!!
+  So incredibly ridiculous...
   <br><br>
-  At any rate, today's project was to create one of these paintings by extracting colors from an image and then 
-  creating the "painting" via the turtle module. Pretty fun little project that had me use a new module I have never 
-  touched, as well as use some more of the turtle module that I have never used before.
+  At any rate, today's project was to create one of these paintings by extracting 
+  colors from an image and then creating the "painting" via the turtle module. Pretty 
+  fun little project that had me use a new module I have never touched, as well as use 
+  some more of the turtle module that I have never used before.
 
 ### Day 17: December 27, 2022
 
