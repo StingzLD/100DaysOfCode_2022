@@ -1,5 +1,23 @@
 # 100 Days of Python - Log
 
+### Day 21: December 31, 2022
+
+**Today's Progress**
+* Completed Day 21 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
+](https://www.udemy.com/course/100-days-of-code/)
+
+**Link to work**
+* [Snake Game](https://github.com/StingzLD/snake-game)
+
+**Thoughts**
+* To finish the snake game, there was still a bit of work to be done. In total, I added 
+  a food and scoreboard class, updated the snake class to be able to extend the snake 
+  by a segment when it eats an ap=le, and ; updated the main script to include all these 
+  changes, as well as add the game over conditions. Overall, the game works just as it 
+  should. The only thing that bugs me is the placement of the apple is not always 
+  centered on the snake, so it is a bit awkward at times, but it still works. This is 
+  something that can be improved upon in the future, though. See you all in the new year!
+
 ### Day 20: December 30, 2022
 
 **Today's Progress**
