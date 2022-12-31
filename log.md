@@ -1,5 +1,25 @@
 # 100 Days of Python - Log
 
+### Day 20: December 30, 2022
+
+**Today's Progress**
+* Completed Day 20 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
+](https://www.udemy.com/course/100-days-of-code/)
+
+**Link to work**
+* [Snake Game](https://github.com/StingzLD/snake-game)
+
+**Thoughts**
+* Ah, the infamous Snake Game from my old Nokia past. What nostalgia! Today was 
+  focused on getting the basics completed: the screen, creating the snake, making the 
+  snake move, user input to change the snake's direction, and doing so using OOP. 
+  Using OOP in the various ways that I have during this course has really helped my 
+  brain get more used to it because the reason behind using it actually makes a lot of 
+  sense in comparison to how I initially learned it which was just the same old "This 
+  is a blueprint of a car. Now our car has wheels, a color, etc.". The snake game is 
+  really making it click more because it is something I have been thinking about doing 
+  anyway. Not the snake game itself, per se, but making a game period.
+
 ### Day 19: December 29, 2022
 
 **Today's Progress**
