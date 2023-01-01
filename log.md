@@ -1,5 +1,37 @@
 # 100 Days of Python - Log
 
+### Day 22: January 1, 2023
+
+**Today's Progress**
+* Completed Day 22 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
+](https://www.udemy.com/course/100-days-of-code/)
+
+**Link to work**
+* [Pong Game](git@github.com:StingzLD/pong.git)
+
+**Thoughts**
+* Happy New Year!
+* Ironic that I start the new year by coding the classic Pong game. Overall, I really 
+  enjoyed making the game. There are certainly limitations to what the turtle module 
+  is capable of, though. The way it all works together means that the movement of the 
+  paddles is awkward because it is lagging behind your intended movement, so you end 
+  up moving way further than expected. When it does that, you are then locked in until 
+  that sequence of key presses finishes, meaning the next player is now behind a few 
+  cycles and is unfair.
+  <br><br>
+  I am sure there is a way to circumvent this, but it is one of two issues I am having 
+  right now that would not be easily addressable. THe other issue is sometimes the 
+  ball gets "stuck" inside the paddle, bounces back and forth inside of it a few times,
+  and then it will eventually zoom out because of the dynamic ball speed. I could 
+  eventually figure this out, however it is going to take much more time than I currently 
+  have available to work on it, especially considering the game is complete otherwise.
+  <br><br>
+  There is one other tiny issue that could be quick to fix, which is the paddles are 
+  currently able to move past the walls of the game. This really would not be as big 
+  of an issue if the first issue above was resolved, however, because if the paddle moved 
+  and stopped when you expected it to, you would never intentionally move it past the 
+  walls.
+
 ### Day 21: December 31, 2022
 
 **Today's Progress**
