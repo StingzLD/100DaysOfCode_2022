@@ -1,5 +1,26 @@
 # 100 Days of Python - Log
 
+### Day 23: January 2, 2023
+
+**Today's Progress**
+* Completed Day 23 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
+](https://www.udemy.com/course/100-days-of-code/)
+
+**Link to work**
+* [Turtle Crossing Game](https://github.com/StingzLD/turtle-crossing-game)
+
+**Thoughts**
+* The Turtle Crossing Game is the capstone project for all of the turtle module work 
+  that has been completed recently. It takes all the bits and pieces from the various 
+  games that have been created and put them all into one. Naturally, I had the input 
+  lag issue I discussed yesterday, but it was more responsive in this game, so it 
+  worked out just fine. All in all, creating the game was pretty fun. It is always fun 
+  to see how quickly it goes from just a bunch of code with a couple of items on the 
+  screen to a fully fleshed out game. One class and two lines of code in the main 
+  script took it from just a turtle on the screen to a mass transit highway. Good luck!
+* If you are looking at the code, you may notice an easter egg in there (or two). If you 
+  notice it and understand the reference, let me know!
+
 ### Day 22: January 1, 2023
 
 **Today's Progress**
@@ -7,7 +28,7 @@
 ](https://www.udemy.com/course/100-days-of-code/)
 
 **Link to work**
-* [Pong Game](git@github.com:StingzLD/pong.git)
+* [Pong Game](https://github.com/StingzLD/pong-game)
 
 **Thoughts**
 * Happy New Year!
