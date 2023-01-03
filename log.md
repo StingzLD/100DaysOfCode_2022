@@ -1,5 +1,24 @@
 # 100 Days of Python - Log
 
+### Day 24: January 3, 2023
+
+**Today's Progress**
+* Completed Day 24 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
+](https://www.udemy.com/course/100-days-of-code/)
+
+**Link to work**
+* [Snake Game](https://github.com/StingzLD/snake-game)
+* [Day 24 - Replit](https://replit.com/@StingzLD/100DaysOfPython-Day-24)
+
+**Thoughts**
+* It is ironic that today's work took me back to the snake game because I was thinking 
+  about different improvements that could be made. Creating a persistent high score 
+  between gaming sessions was not one of them, but it was certainly a good lead into 
+  some other ideas I have for different projects. With the reading and writing of files 
+  for persistent storage, a lot more options become available, like the small mail 
+  merger project in the Replit above for automatically creating personalized invites 
+  based on a list of names. 
+
 ### Day 23: January 2, 2023
 
 **Today's Progress**
