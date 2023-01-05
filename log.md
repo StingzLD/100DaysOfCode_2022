@@ -1,5 +1,22 @@
 # 100 Days of Python - Log
 
+### Day 25: January 4, 2023
+
+**Today's Progress**
+* Completed Day 25 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
+](https://www.udemy.com/course/100-days-of-code/)
+
+**Link to work**
+* [Name the States Game](https://github.com/StingzLD/us-states-game)
+* [Pandas Exercises](https://replit.com/@StingzLD/pandas-exercises)
+
+**Thoughts**
+* The 'Name the States' game was a nice introduction into the pandas module. It
+  combined the CSV parsing with the turtle module to create a game that worked well for
+  both. As always, I think there is a way to improve upon the game, but the current
+  iteration of it definitely works. What I would like to add, though, is a way to click
+  on a state and then see if you answer it correctly.
+
 ### Day 24: January 3, 2023
 
 **Today's Progress**
