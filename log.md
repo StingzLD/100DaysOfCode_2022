@@ -1,5 +1,22 @@
 # 100 Days of Python - Log
 
+### Day 26: January 5, 2023
+
+**Today's Progress**
+* Completed Day 26 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
+](https://www.udemy.com/course/100-days-of-code/)
+
+**Link to work**
+* [NATO Alphabet Generator](https://github.com/StingzLD/nato-alphabet-generator)
+* [Pandas Exercise 7](https://replit.com/@StingzLD/pandas-exercises#exercise-7.py)
+* [Day 26 - Replit](https://replit.com/@StingzLD/100DaysOfPython-Day-26)
+
+**Thoughts**
+* Any day you get to learn something new is a great day, and today was a great day. Up to now, I 
+  have only dealt with list comprehensions, but never dictionary comprehensions. I did not even 
+  know those existed! And to add a cherry on top, I got to work with pandas DataFrames data using 
+  the dictionary comprehension. So all-in-all, it was a great day.
+
 ### Day 25: January 4, 2023
 
 **Today's Progress**
