@@ -1,5 +1,23 @@
 # 100 Days of Python - Log
 
+### Day 27: January 6, 2023
+
+**Today's Progress**
+* Completed Day 27 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
+](https://www.udemy.com/course/100-days-of-code/)
+
+**Link to work**
+* [Miles to Kilometers Converter](https://github.com/StingzLD/mi-to-km-converter)
+* [Tkinter Widget Demo](https://github.com/StingzLD/tkinter-widget-demo)
+* [Day 27 - Replit](https://replit.com/@StingzLD/100DaysOfPython-Day-27)
+
+**Thoughts**
+* It's a... GUI! One of the things that I have really wanted to get into is designing a 
+  graphical user interface. I have had a couple of ideas in mind in the past, but I 
+  never spent the time to actually learn how to do it. With today's coding, finally got to
+  start that journey of learning how to do it. And now that I have the basics down, I can
+  create essentially whatever basic application's GUI I want.
+
 ### Day 26: January 5, 2023
 
 **Today's Progress**
