@@ -1,5 +1,21 @@
 # 100 Days of Python - Log
 
+### Day 28: January 7, 2023
+
+**Today's Progress**
+* Completed Day 28 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
+](https://www.udemy.com/course/100-days-of-code/)
+
+**Link to work**
+* [Pomodoro Timer](https://github.com/StingzLD/pomodoro-timer)
+
+**Thoughts**
+* The Pomodoro Timer is a project that is something I can actually use, as it sets a clock and runs 
+  based on the Pomodoro Technique. The technique, along with screenshots, is shown in the README.md 
+  file in the above repo on GitHub. This project is something I am going to take and run with on 
+  another project, as pretty much every element in this project can be used for another timer I 
+  am wanting to make. Good stuff!
+
 ### Day 27: January 6, 2023
 
 **Today's Progress**
