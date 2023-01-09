@@ -15,7 +15,7 @@
   end up packaging and using basically every day at work, mainly for the easy password 
   generator that I can just slap on my desktop. As such, I was definitely invested in 
   this project.
-  <br><br>
+
   I am sure I will be tweaking this the more I use it. One major change I know I will 
   be making is how the passwords are stored, as currently that is as plaintext and 
   easily accessible as you can get. This will need to be beefed up by adding the 
@@ -123,7 +123,9 @@
   that has been completed recently. It takes all the bits and pieces from the various 
   games that have been created and put them all into one. Naturally, I had the input 
   lag issue I discussed yesterday, but it was more responsive in this game, so it 
-  worked out just fine. All in all, creating the game was pretty fun. It is always fun 
+  worked out just fine.
+  
+  All in all, creating the game was pretty fun. It is always fun 
   to see how quickly it goes from just a bunch of code with a couple of items on the 
   screen to a fully fleshed out game. One class and two lines of code in the main 
   script took it from just a turtle on the screen to a mass transit highway. Good luck!
@@ -148,14 +150,14 @@
   up moving way further than expected. When it does that, you are then locked in until 
   that sequence of key presses finishes, meaning the next player is now behind a few 
   cycles and is unfair.
-  <br><br>
+
   I am sure there is a way to circumvent this, but it is one of two issues I am having 
   right now that would not be easily addressable. THe other issue is sometimes the 
   ball gets "stuck" inside the paddle, bounces back and forth inside of it a few times,
   and then it will eventually zoom out because of the dynamic ball speed. I could 
   eventually figure this out, however it is going to take much more time than I currently 
   have available to work on it, especially considering the game is complete otherwise.
-  <br><br>
+
   There is one other tiny issue that could be quick to fix, which is the paddles are 
   currently able to move past the walls of the game. This really would not be as big 
   of an issue if the first issue above was resolved, however, because if the paddle moved 
@@ -240,7 +242,7 @@
   this case, it is the dot painting by Damien Hirst. It is literally just randomly 
   colored dots organized in a grid. One of them even sold for over 19 MILLION DOLLARS!!
   So incredibly ridiculous...
-  <br><br>
+
   At any rate, today's project was to create one of these paintings by extracting 
   colors from an image and then creating the "painting" via the turtle module. Pretty 
   fun little project that had me use a new module I have never touched, as well as use 
@@ -258,7 +260,7 @@
 **Thoughts**
 * As you can see, I took a nice little break to spend 100% of my time with the family. 
   I think we can all agree that is completely within the rules. Now back to business!
-  <br><br>
+
   I enjoy the fact that this course did not just introduce OOP and then move on to the 
   next thing. It actually continued using it with a whole new project, which was nice. 
   Creating the Trivia Game was another good round of practice with writing OOP, and 
@@ -357,7 +359,7 @@
   this, I add debugging, see what is actually happening (even if the result is correct,
   is it actually getting that result in the intended way?), move code around, clean 
   code up, etc. 
-  <br><br>
+
   There is definitely still work that can be done to make the code much cleaner, and I 
   have already added in extra art to make the user experience that much better in the 
   next version of the game, but for the sake of moving forward with the course I am 
@@ -507,9 +509,9 @@
 
 **Thoughts**
 * The project for today might have been a simplistic one, but it was definitely fun and 
-got the creative juices flowing. It was a *Choose Your Own Adventure* game called 
-**Treasure Island**. If you want to take a peek at it, just head hit the Replit link 
-above and take a look at the treasure-island.py file.
+  got the creative juices flowing. It was a *Choose Your Own Adventure* game called 
+  **Treasure Island**. If you want to take a peek at it, just head hit the Replit link 
+  above and take a look at the treasure-island.py file.
 
 ### Day 2: December 9, 2022
 
@@ -522,8 +524,8 @@ above and take a look at the treasure-island.py file.
 
 **Thoughts**
 * Although this course is still in the very basics, I have decided to just go through 
-the motions, as there may be a piece of information I did not know or a trick that I 
-might learn. Either way, Day 2 complete!
+  the motions, as there may be a piece of information I did not know or a trick that I 
+  might learn. Either way, Day 2 complete!
 
 ### Day 1: December 8, 2022
 
@@ -536,20 +538,20 @@ might learn. Either way, Day 2 complete!
 
 **Thoughts**
 * Today I made the decision to challenge myself with another 100DaysOfCode challenge! It 
-has been about a year since I last really touched Python, as I have been primarily 
-coding with PowerShell, and I want to ensure I do not get rusty. I want my main focus 
-to be more on topics I do not have much experience in with Python, specifically: APIs, 
-creating applications and websites, scraping, etc. With my currently hectic schedule, 
-I do not want to spend a lot of time researching how to do things. As such, I set out 
-to find pre-designed content that would allow me to push my knowledge and complete my 
-goal.
-<br><br>
-Luckily, I found [100 Days of Code: The Complete Python Pro Bootcamp for 2023
-](https://www.udemy.com/course/100-days-of-code/), which appears to be just what I am 
-looking for. Although I took the assessment and was told to start a third of the way 
-in, I have decided to just go through the entire course as is, since there are projects 
-that I would miss out on. And who knows, I might learn something new about a *"basic"* 
-concept! That has certainly happened to me in the recent past, so maybe I will find 
-some new trick I have never seen before.
-<br><br>
-Here's to 100 Days of Python!
+  has been about a year since I last really touched Python, as I have been primarily 
+  coding with PowerShell, and I want to ensure I do not get rusty. I want my main focus 
+  to be more on topics I do not have much experience in with Python, specifically: APIs, 
+  creating applications and websites, scraping, etc. With my currently hectic schedule, 
+  I do not want to spend a lot of time researching how to do things. As such, I set out 
+  to find pre-designed content that would allow me to push my knowledge and complete my 
+  goal.
+
+  Luckily, I found [100 Days of Code: The Complete Python Pro Bootcamp for 2023
+  ](https://www.udemy.com/course/100-days-of-code/), which appears to be just what I am 
+  looking for. Although I took the assessment and was told to start a third of the way 
+  in, I have decided to just go through the entire course as is, since there are projects 
+  that I would miss out on. And who knows, I might learn something new about a *"basic"* 
+  concept! That has certainly happened to me in the recent past, so maybe I will find 
+  some new trick I have never seen before.
+
+  Here's to 100 Days of Python!
