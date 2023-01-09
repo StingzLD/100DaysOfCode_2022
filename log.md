@@ -1,5 +1,27 @@
 # 100 Days of Python - Log
 
+### Day 29: January 8, 2023
+
+**Today's Progress**
+* Completed Day 29 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
+](https://www.udemy.com/course/100-days-of-code/)
+
+**Link to work**
+* [Password Manager](https://github.com/StingzLD/password-manager)
+
+**Thoughts**
+* Another day, another useful project! Today's project was to create a GUI password 
+  manager with an integrated password generator. This is going to be a project that I 
+  end up packaging and using basically every day at work, mainly for the easy password 
+  generator that I can just slap on my desktop. As such, I was definitely invested in 
+  this project.
+  <br><br>
+  I am sure I will be tweaking this the more I use it. One major change I know I will 
+  be making is how the passwords are stored, as currently that is as plaintext and 
+  easily accessible as you can get. This will need to be beefed up by adding the 
+  requirement of a password to open the file and encryption to keep wandering fingers 
+  and eyes away.
+
 ### Day 28: January 7, 2023
 
 **Today's Progress**
