@@ -1,5 +1,36 @@
 # 100 Days of Python - Log
 
+### Day 30: January 9, 2023
+
+**Today's Progress**
+* Continued developing Password Manager from Day 29 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
+](https://www.udemy.com/course/100-days-of-code/)
+
+**Link to work**
+* [Password Manager](https://github.com/StingzLD/password-manager)
+
+**Thoughts**
+* The more I worked on the Password Manager, the more I wanted to change things. So that
+  is what I did! Here is a list of changes that I made:
+  - Added blank field check
+  - Added successful add notification
+  - Added copy button to copy generated password
+  - Found a way to open the app centered on the screen
+  - Updated UI formatting
+  
+  Some of these were easy, while others had me searching on how to implement such change.
+  The biggest issue I had was with the copy button. Windows will support emojis, which is
+  how I was adding a clipboard to the button. When I switched to my laptop (Linux) to
+  continue working on this, the clipboard did not appear because it apparently does not
+  support emojis. This had me redesign it to use an image which had to be scaled appropriately
+  in order to fit inside the button.
+* There were a couple of other items I tried to implement, but they did not go as planned and 
+  were ultimately abandoned for the time being. An example of one is creating a text pop that
+  hovers over the copy button to simply say "Copy Password". Technically, I got it working.
+  If I hovered over the button, the text displayed. Unfortunately, it brought on an ugly side
+  effect, which was messing up the entire layout for some reason. I vouched to remove it for
+  now, but that is something still on the radar to fix.
+
 ### Day 29: January 8, 2023
 
 **Today's Progress**
