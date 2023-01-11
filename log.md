@@ -1,9 +1,40 @@
 # 100 Days of Python - Log
 
+### Day 31: January 10, 2023
+
+**Today's Progress**
+* Completed Day 30 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
+](https://www.udemy.com/course/100-days-of-code/)
+
+**Link to work**
+* [Password Manager](https://github.com/StingzLD/password-manager)
+* [NATO Alphabet Generator](https://github.com/StingzLD/nato-alphabet-generator)
+* [Day 30 - Replit](https://replit.com/@StingzLD/100DaysOfPython-Day-30)
+
+**Thoughts**
+* The day started off by doing some error handling exercises followed by updating the 
+  NATO Alphabet Generator to error handle anything input that is not a letter.
+* The biggest emphasis of the day is ironic because I decided to stop making 
+  changes to the Password Manager and move on with the course, only to find that the 
+  course has me go work on the Password Manager some more. Win! One thing I really did 
+  not like about it, which I do not think I mentioned before, is the fact that the 
+  credentials were just being saved in a custom formatted text file, which is not ideal 
+  in any situation. As luck would have it, today that converted to JSON. This not only 
+  made the formatting of the passwords file much easier to read, it also allowed for 
+  the addition of the Search function, which is pretty critical for a password manager.
+* Continuing with the Linux vs Windows element mess, my OCD decided it was best to just 
+  have two different versions. The initial design process is done in Linux, and then I 
+  run the code in Windows and adjust as needed. This adjustment is saved to a separate 
+  file, so no matter which platform you are using, you will have all of the elements 
+  in their proper places. The only downside is any changes made to the code now has to 
+  be made to two files, so I should probably put in logic that detects the OS and have
+  everything handled accordingly, but for now this will do.
+
 ### Day 30: January 9, 2023
 
 **Today's Progress**
-* Continued developing Password Manager from Day 29 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
+* Continued developing Password Manager from Day 29 of the  
+  [100 Days of Code: The Complete Python Pro Bootcamp for 2023
 ](https://www.udemy.com/course/100-days-of-code/)
 
 **Link to work**
@@ -22,14 +53,14 @@
   The biggest issue I had was with the copy button. Windows will support emojis, which is
   how I was adding a clipboard to the button. When I switched to my laptop (Linux) to
   continue working on this, the clipboard did not appear because it apparently does not
-  support emojis. This had me redesign it to use an image which had to be scaled appropriately
-  in order to fit inside the button.
-* There were a couple of other items I tried to implement, but they did not go as planned and 
-  were ultimately abandoned for the time being. An example of one is creating a text pop that
-  hovers over the copy button to simply say "Copy Password". Technically, I got it working.
-  If I hovered over the button, the text displayed. Unfortunately, it brought on an ugly side
-  effect, which was messing up the entire layout for some reason. I vouched to remove it for
-  now, but that is something still on the radar to fix.
+  support emojis. This had me redesign it to use an image which had to be scaled 
+  appropriately in order to fit inside the button.
+* There were a couple of other items I tried to implement, but they did not go as planned 
+  and were ultimately abandoned for the time being. An example of one is creating a text 
+  pop that hovers over the copy button to simply say "Copy Password". Technically, I got
+  it working. If I hovered over the button, the text displayed. Unfortunately, it brought 
+  on an ugly side effect, which was messing up the entire layout for some reason. I 
+  vouched to remove it for now, but that is something still on the radar to fix.
 
 ### Day 29: January 8, 2023
 
@@ -63,11 +94,11 @@
 * [Pomodoro Timer](https://github.com/StingzLD/pomodoro-timer)
 
 **Thoughts**
-* The Pomodoro Timer is a project that is something I can actually use, as it sets a clock and runs 
-  based on the Pomodoro Technique. The technique, along with screenshots, is shown in the README.md 
-  file in the above repo on GitHub. This project is something I am going to take and run with on 
-  another project, as pretty much every element in this project can be used for another timer I 
-  am wanting to make. Good stuff!
+* The Pomodoro Timer is a project that is something I can actually use, as it sets a clock
+  and runs based on the Pomodoro Technique. The technique, along with screenshots, is 
+  shown in the README.md file in the above repo on GitHub. This project is something I am 
+  going to take and run with on another project, as pretty much every element in this 
+  project can be used for another timer I am wanting to make. Good stuff!
 
 ### Day 27: January 6, 2023
 
@@ -99,10 +130,10 @@
 * [Day 26 - Replit](https://replit.com/@StingzLD/100DaysOfPython-Day-26)
 
 **Thoughts**
-* Any day you get to learn something new is a great day, and today was a great day. Up to now, I 
-  have only dealt with list comprehensions, but never dictionary comprehensions. I did not even 
-  know those existed! And to add a cherry on top, I got to work with pandas DataFrames data using 
-  the dictionary comprehension. So all-in-all, it was a great day.
+* Any day you get to learn something new is a great day, and today was a great day. Up to 
+  now, I have only dealt with list comprehensions, but never dictionary comprehensions. I 
+  did not even know those existed! And to add a cherry on top, I got to work with pandas 
+  DataFrames data using the dictionary comprehension. So all-in-all, it was a great day.
 
 ### Day 25: January 4, 2023
 
