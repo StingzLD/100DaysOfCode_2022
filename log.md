@@ -1,5 +1,27 @@
 # 100 Days of Python - Log
 
+### Day 32: January 11, 2023
+
+**Today's Progress**
+* Completed Day 31 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
+](https://www.udemy.com/course/100-days-of-code/)
+
+**Link to work**
+* [German Flashcards](https://github.com/StingzLD/flashcards-german)
+
+**Thoughts**
+* There is a common theme running through this course, and that is the projects actually
+  being useful, rather than some random project that has no further benefit after writing 
+  it. For today, that project was creating a flashcard program. Specifically, this is to 
+  learn a new language, but obviously it can be used for whatever you want to learn. The
+  reason this one is so useful for me is I am actually learning German, so I just adapted 
+  the program to use German words, and now I am off to the races!
+* This flashcard program was an accumulation of the past few days' topics, so it was a 
+  good combination of practice while using the concepts in a slightly different way. 
+  There are some things that bug me about it that I have yet to resolve, like why I 
+  was unable to remove the border around the button images, but I can always update the
+  code once I come across an answer. 
+
 ### Day 31: January 10, 2023
 
 **Today's Progress**
