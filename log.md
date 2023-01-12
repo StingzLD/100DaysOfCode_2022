@@ -1,5 +1,22 @@
 # 100 Days of Python - Log
 
+### Day 33: January 12, 2023
+
+**Today's Progress**
+* Completed Day 32 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
+](https://www.udemy.com/course/100-days-of-code/)
+
+**Link to work**
+* [Automated Birthday Telegram](https://github.com/StingzLD/automated-birthday-telegram)
+* [Monday Motivational Quote](https://github.com/StingzLD/monday-motivational-quote)
+
+**Thoughts**
+* SMTP is definitely a topic I have been wanting to learn about, as that is something I 
+  use quite often in my scripts for work. In both of the projects today, it was used 
+  in a very simple manner, which is really the best way to learn. I am hoping that it 
+  will get more involved by adding in HTML formatting, maybe even some tables, but if 
+  not I will just figure out a way to make it happen like I always do.
+
 ### Day 32: January 11, 2023
 
 **Today's Progress**
