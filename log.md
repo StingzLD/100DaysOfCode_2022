@@ -5,17 +5,41 @@
 **Today's Progress**
 * Completed Day 32 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
 ](https://www.udemy.com/course/100-days-of-code/)
+* Completed Day 33 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
+](https://www.udemy.com/course/100-days-of-code/)
 
 **Link to work**
+* [IIS Overhead Notifier](https://github.com/StingzLD/iss-overhead-notifier)
 * [Automated Birthday Telegram](https://github.com/StingzLD/automated-birthday-telegram)
 * [Monday Motivational Quote](https://github.com/StingzLD/monday-motivational-quote)
 
 **Thoughts**
-* SMTP is definitely a topic I have been wanting to learn about, as that is something I 
-  use quite often in my scripts for work. In both of the projects today, it was used 
-  in a very simple manner, which is really the best way to learn. I am hoping that it 
-  will get more involved by adding in HTML formatting, maybe even some tables, but if 
-  not I will just figure out a way to make it happen like I always do.
+* Having the actual days I have been coding and the day in the course be off has been 
+  driving my OCD crazy, so I decided to do an extra lesson today to get it all back on 
+  an even kilter. It actually worked out quite well, as Day 33 was very much tied to 
+  Day 32 anyway.
+* Day 32 was focused on SMTP, which  is definitely a topic I have been wanting to learn 
+  about, as that is something I use quite often in my scripts for work. In all of the 
+  projects today, it was used in a very simple manner, which is really the best way to 
+  learn. I am hoping that it will get more involved by adding in HTML formatting, 
+  maybe  even some tables, but if not I will just figure out a way to make it happen 
+  like I always do.
+* Day 33 was focused on APIs, which is also something I use quite often in my scripts 
+  for work, so learning how to use them with Python was great. Combine that with the 
+  SMTP work from the previous day, as well as the project being an ISS Overhead 
+  Notifier, and you have a very happy man behind this keyboard.
+
+  There was one challenge I had with this project, however it was not due to the APIs. 
+  My brain at 10:00 PM (ish) is pretty much mush, and I was having the hardest time 
+  trying to create logic to figure out if it is dark or not based on UTC time. 
+  Initially, I just went "Okay, if the time is before the sunrise or after the sunset, 
+  then it is dark!" Well... Turns out that is not always the case when it comes to UTC 
+  because sunset could be 00:00 or later, which means that literally any time after 
+  that point would be considered "dark" with the above logic. The solution to this is 
+  quite simple, however with my mushy brain, it took me probably 30 minutes to figure 
+  it out. The solution? Separate logic for if the sunset is before or after 00:00. If 
+  it is after, then the current time must be both before sunrise _and_ after sunset. 
+  If sunset is before 00:00, then it can only be one or the other.
 
 ### Day 32: January 11, 2023
 
