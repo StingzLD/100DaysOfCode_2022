@@ -1,5 +1,40 @@
 # 100 Days of Python - Log
 
+### Day 34: August 4, 2023
+
+**Today's Progress**
+* Completed Day 34 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
+](https://www.udemy.com/course/100-days-of-code/)
+
+**Link to work**
+* [Quizzler App](https://github.com/StingzLD/quizzler-app)
+* [Day 34 - Replit - Type Hints](https://replit.com/@StingzLD/100DaysOfPython-Day-34-Type-Hints)
+
+**Thoughts**
+* My, oh my, has it been a while since I worked on this. Technically, yes, this 
+  constitutes the breaking of the simple rules of #100DaysOfCode. Unfortunately, life 
+  tends to encroach upon the free time required to dedicate ourselves to a long term, 
+  daily commit such as this. I am sure if I did just the basics to get by, I could.
+  However, I am not the kind of person to just "get by". I always take it upon myself to 
+  go above and beyond, to do further research, and really understand the core concepts of 
+  what I am doing. After all, the spirit of the challenge is to, well, challenge yourself!
+  That means the "code for a minimum one hour a day" really means that I am spending three
+  or four hours a day going into rabbit holes, and that is simply not sustainable. 
+  
+  Because of this, I am now going to be continuing this challenge at a more relaxed 
+  pace. In fact, this challenge is no longer going to be "100 Days of Code", but 
+  rather "Complete the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
+](https://www.udemy.com/course/100-days-of-code/) course". The whole reason for this 
+  challenge is to push yourself and learn things you likely would not have otherwise, and 
+  that is exactly what the course is doing. My journal entries are likely going to have 
+  more days in between them now, or there may just be some small changes that were made 
+  because that is all I had time to do that day. And you know what? That is perfectly 
+  fine with me. I am still learning, and I am still challenging myself. I am just 
+  doing so now without the undue stress that is placed upon you with the daily commitment
+  required by the challenge itself.
+
+  Happy coding, everyone!
+
 ### Day 33: January 12, 2023
 
 **Today's Progress**
