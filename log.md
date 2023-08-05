@@ -1,12 +1,50 @@
 # 100 Days of Python - Log
 
+### Day 35: August 5, 2023
+
+**Today's Progress**
+* Started Day 35 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
+](https://www.udemy.com/course/100-days-of-code/)
+
+**Link to Work**
+* [SMS Rain Alert](https://github.com/StingzLD/sms-rain-alert)
+
+**External Links**
+* [OpenWeather API](https://openweathermap.org/api)
+* [Latitude and Longitude Finder](https://www.latlong.net/)
+* [Ventusky (high resolution live weather map)](https://www.ventusky.com/)
+* [Online JSON Viewer](https://jsonviewer.stack.hu/)
+
+**Thoughts**
+* Moving at my own pace and not having to be stressed about trying to complete everything
+  in one day has been pretty nice. As you will see in the code, there is not a lot of 
+  lines of code, however the time I spent playing with it, analyzing the data returned 
+  from the API, and determining which way I ultimately wanted to parse through everything 
+  took a good chunk of time. Add to that the fact that the API key was not readily 
+  available to use (it took some time to propagate), and then once that was working, 
+  it took a similar amount of time for the subscription to activate. Needless to say, 
+  I spent a good couple of hours working (playing) on this project, and there is still 
+  more to be done. The fact that I am not super stressed about having to come back and 
+  finish all of this before the end of the day is pretty nice.
+* Now for my thoughts on the work done today, which is really what you are interested 
+  in. Playing with the OpenWeather API was a lot of fun, especially since I am very 
+  interested in all things weather (kind of hard not to be when you live in Texas and 
+  are constantly watching the sky during tornado season!). I think once this little 
+  app is complete, I will be using this API in different projects. The Ventusky app 
+  was so interesting that I actually downloaded it onto my phone, as it is really neat.
+  One tool that is going to be really useful for almost every project involving APIs 
+  moving forward is going to be the Online JSON Viewer. That is such a slick tool, and 
+  I wish that functionality was a plugin I could readily use in PyCharm (or any other 
+  IDE for that matter). It made sifting through the massive amount of weather data 
+  incredibly easy.
+
 ### Day 34: August 4, 2023
 
 **Today's Progress**
 * Completed Day 34 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
 ](https://www.udemy.com/course/100-days-of-code/)
 
-**Link to work**
+**Link to Work**
 * [Quizzler App](https://github.com/StingzLD/quizzler-app)
 * [Day 34 - Replit - Type Hints](https://replit.com/@StingzLD/100DaysOfPython-Day-34-Type-Hints)
 
@@ -43,7 +81,7 @@
 * Completed Day 33 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
 ](https://www.udemy.com/course/100-days-of-code/)
 
-**Link to work**
+**Link to Work**
 * [IIS Overhead Notifier](https://github.com/StingzLD/iss-overhead-notifier)
 * [Automated Birthday Telegram](https://github.com/StingzLD/automated-birthday-telegram)
 * [Monday Motivational Quote](https://github.com/StingzLD/monday-motivational-quote)
@@ -82,7 +120,7 @@
 * Completed Day 31 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
 ](https://www.udemy.com/course/100-days-of-code/)
 
-**Link to work**
+**Link to Work**
 * [German Flashcards](https://github.com/StingzLD/flashcards-german)
 
 **Thoughts**
@@ -104,7 +142,7 @@
 * Completed Day 30 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
 ](https://www.udemy.com/course/100-days-of-code/)
 
-**Link to work**
+**Link to Work**
 * [Password Manager](https://github.com/StingzLD/password-manager)
 * [NATO Alphabet Generator](https://github.com/StingzLD/nato-alphabet-generator)
 * [Day 30 - Replit](https://replit.com/@StingzLD/100DaysOfPython-Day-30)
@@ -135,7 +173,7 @@
   [100 Days of Code: The Complete Python Pro Bootcamp for 2023
 ](https://www.udemy.com/course/100-days-of-code/)
 
-**Link to work**
+**Link to Work**
 * [Password Manager](https://github.com/StingzLD/password-manager)
 
 **Thoughts**
@@ -166,7 +204,7 @@
 * Completed Day 29 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
 ](https://www.udemy.com/course/100-days-of-code/)
 
-**Link to work**
+**Link to Work**
 * [Password Manager](https://github.com/StingzLD/password-manager)
 
 **Thoughts**
@@ -188,7 +226,7 @@
 * Completed Day 28 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
 ](https://www.udemy.com/course/100-days-of-code/)
 
-**Link to work**
+**Link to Work**
 * [Pomodoro Timer](https://github.com/StingzLD/pomodoro-timer)
 
 **Thoughts**
@@ -204,7 +242,7 @@
 * Completed Day 27 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
 ](https://www.udemy.com/course/100-days-of-code/)
 
-**Link to work**
+**Link to Work**
 * [Miles to Kilometers Converter](https://github.com/StingzLD/mi-to-km-converter)
 * [Tkinter Widget Demo](https://github.com/StingzLD/tkinter-widget-demo)
 * [Day 27 - Replit](https://replit.com/@StingzLD/100DaysOfPython-Day-27)
@@ -222,7 +260,7 @@
 * Completed Day 26 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
 ](https://www.udemy.com/course/100-days-of-code/)
 
-**Link to work**
+**Link to Work**
 * [NATO Alphabet Generator](https://github.com/StingzLD/nato-alphabet-generator)
 * [Pandas Exercise 7](https://replit.com/@StingzLD/pandas-exercises#exercise-7.py)
 * [Day 26 - Replit](https://replit.com/@StingzLD/100DaysOfPython-Day-26)
@@ -239,7 +277,7 @@
 * Completed Day 25 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
 ](https://www.udemy.com/course/100-days-of-code/)
 
-**Link to work**
+**Link to Work**
 * [Name the States Game](https://github.com/StingzLD/us-states-game)
 * [Pandas Exercises](https://replit.com/@StingzLD/pandas-exercises)
 
@@ -256,7 +294,7 @@
 * Completed Day 24 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
 ](https://www.udemy.com/course/100-days-of-code/)
 
-**Link to work**
+**Link to Work**
 * [Snake Game](https://github.com/StingzLD/snake-game)
 * [Day 24 - Replit](https://replit.com/@StingzLD/100DaysOfPython-Day-24)
 
@@ -275,7 +313,7 @@
 * Completed Day 23 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
 ](https://www.udemy.com/course/100-days-of-code/)
 
-**Link to work**
+**Link to Work**
 * [Turtle Crossing Game](https://github.com/StingzLD/turtle-crossing-game)
 
 **Thoughts**
@@ -298,7 +336,7 @@
 * Completed Day 22 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
 ](https://www.udemy.com/course/100-days-of-code/)
 
-**Link to work**
+**Link to Work**
 * [Pong Game](https://github.com/StingzLD/pong-game)
 
 **Thoughts**
@@ -330,7 +368,7 @@
 * Completed Day 21 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
 ](https://www.udemy.com/course/100-days-of-code/)
 
-**Link to work**
+**Link to Work**
 * [Snake Game](https://github.com/StingzLD/snake-game)
 
 **Thoughts**
@@ -348,7 +386,7 @@
 * Completed Day 20 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
 ](https://www.udemy.com/course/100-days-of-code/)
 
-**Link to work**
+**Link to Work**
 * [Snake Game](https://github.com/StingzLD/snake-game)
 
 **Thoughts**
@@ -368,7 +406,7 @@
 * Completed Day 19 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
 ](https://www.udemy.com/course/100-days-of-code/)
 
-**Link to work**
+**Link to Work**
 * [Etch-A-Sketch](https://github.com/StingzLD/etch-a-sketch)
 * [Turtle Race](https://github.com/StingzLD/turtle-race)
 
@@ -392,7 +430,7 @@
 * Completed Day 18 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
 ](https://www.udemy.com/course/100-days-of-code/)
 
-**Link to work**
+**Link to Work**
 * [Hirst Painting](https://github.com/StingzLD/hirst-painting)
 * [Day 18 - Replit](https://replit.com/@StingzLD/100DaysOfPython-Day-18)
 
@@ -414,7 +452,7 @@
 * Completed Day 17 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
 ](https://www.udemy.com/course/100-days-of-code/)
 
-**Link to work**
+**Link to Work**
 * [Trivia Game](https://github.com/StingzLD/trivia-game)
 
 **Thoughts**
@@ -436,7 +474,7 @@
 * Completed Day 16 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
 ](https://www.udemy.com/course/100-days-of-code/)
 
-**Link to work**
+**Link to Work**
 * [Coffee Machine](https://github.com/StingzLD/coffee-machine)
 
 **Thoughts**
@@ -455,7 +493,7 @@
 * Completed Day 15 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
 ](https://www.udemy.com/course/100-days-of-code/)
 
-**Link to work**
+**Link to Work**
 * [Coffee Machine](https://github.com/StingzLD/coffee-machine/tree/main/old)
 
 **Thoughts**
@@ -469,7 +507,7 @@
 * Completed Day 14 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
 ](https://www.udemy.com/course/100-days-of-code/)
 
-**Link to work**
+**Link to Work**
 * [Day 14 - Replit](https://replit.com/@StingzLD/100DaysOfPython-Day-14)
 
 **Thoughts**
@@ -489,7 +527,7 @@
 * Completed Day 13 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
 ](https://www.udemy.com/course/100-days-of-code/)
 
-**Link to work**
+**Link to Work**
 * [Day 12 - Replit](https://replit.com/@StingzLD/100DaysOfPython-Day-12)
 * [Day 13 - Replit](https://replit.com/@StingzLD/100DaysOfPython-Day-13)
 
@@ -510,7 +548,7 @@
 * Completed Day 11 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
 ](https://www.udemy.com/course/100-days-of-code/)
 
-**Link to work**
+**Link to Work**
 * [Blackjack](https://github.com/StingzLD/blackjack)
 
 **Thoughts**
@@ -532,7 +570,7 @@
 * Started Day 11 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
 ](https://www.udemy.com/course/100-days-of-code/)
 
-**Link to work**
+**Link to Work**
 * [Blackjack](https://github.com/StingzLD/blackjack)
 
 **Thoughts**
@@ -547,7 +585,7 @@
 * Completed Day 10 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
 ](https://www.udemy.com/course/100-days-of-code/)
 
-**Link to work**
+**Link to Work**
 * [Day 10 - Replit](https://replit.com/@StingzLD/100DaysOfPython-Day-10)
 * [Calculator](https://github.com/StingzLD/calculator)
 
@@ -562,7 +600,7 @@
 * Completed Day 9 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
 ](https://www.udemy.com/course/100-days-of-code/)
 
-**Link to work**
+**Link to Work**
 * [Day 9 - Replit](https://replit.com/@StingzLD/100DaysOfPython-Day-9)
 
 **Thoughts**
@@ -577,7 +615,7 @@
 * Completed Day 8 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
 ](https://www.udemy.com/course/100-days-of-code/)
 
-**Link to work**
+**Link to Work**
 * [Day 8 - Replit](https://replit.com/@StingzLD/100DaysOfPython-Day-8)
 * [Caesar Cipher](https://github.com/StingzLD/caesar-cipher)
 
@@ -591,7 +629,7 @@
 * Completed Day 7 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
 ](https://www.udemy.com/course/100-days-of-code/)
 
-**Link to work**
+**Link to Work**
 * [Day 7 - Replit](https://replit.com/@StingzLD/100DaysOfPython-Day-7)
 * [Hangman](https://github.com/StingzLD/hangman)
 
@@ -611,7 +649,7 @@
 * Completed Day 6 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
 ](https://www.udemy.com/course/100-days-of-code/)
 
-**Link to work**
+**Link to Work**
 * [Day 6 - Replit](https://replit.com/@StingzLD/100DaysOfPython-Day-6)
 
 **Thoughts**
@@ -627,7 +665,7 @@
 * Completed Day 5 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
 ](https://www.udemy.com/course/100-days-of-code/)
 
-**Link to work**
+**Link to Work**
 * [Day 5 - Replit](https://replit.com/@StingzLD/100DaysOfPython-Day-5)
 * [Password Generator](https://github.com/StingzLD/password-generator)
 
@@ -645,7 +683,7 @@
 * Completed Day 4 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
 ](https://www.udemy.com/course/100-days-of-code/)
 
-**Link to work**
+**Link to Work**
 * [Day 4 - Replit](https://replit.com/@StingzLD/100DaysOfPython-Day-4)
 * [Rock Paper Scissors Terminal Game](https://github.com/StingzLD/rock-paper-scissors)
 
@@ -664,7 +702,7 @@
 * Completed Day 3 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
 ](https://www.udemy.com/course/100-days-of-code/)
 
-**Link to work**
+**Link to Work**
 * [Day 3 - Replit](https://replit.com/@StingzLD/100DaysOfPython-Day-3)
 
 **Thoughts**
@@ -679,7 +717,7 @@
 * Completed Day 2 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
 ](https://www.udemy.com/course/100-days-of-code/)
 
-**Link to work**
+**Link to Work**
 * [Day 2 - Replit](https://replit.com/@StingzLD/100DaysOfPython-Day-2)
 
 **Thoughts**
@@ -693,7 +731,7 @@
 * Completed Day 1 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
 ](https://www.udemy.com/course/100-days-of-code/)
 
-**Link to work**
+**Link to Work**
 * [Day 1 - Replit](https://replit.com/@StingzLD/100DaysOfPython-Day-1)
 
 **Thoughts**
