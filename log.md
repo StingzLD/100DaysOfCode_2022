@@ -1,5 +1,36 @@
 # 100 Days of Python - Log
 
+### Day 36: August 5, 2023
+
+**Today's Progress**
+* Completed Day 35 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
+](https://www.udemy.com/course/100-days-of-code/)
+
+**Link to Work**
+* [SMS Rain Alert](https://github.com/StingzLD/sms-rain-alert)
+
+**External Links**
+* [OpenWeather API](https://openweathermap.org/api)
+* [Latitude and Longitude Finder](https://www.latlong.net/)
+* [Ventusky (high resolution live weather map)](https://www.ventusky.com/)
+* [Online JSON Viewer](https://jsonviewer.stack.hu/)
+* [PythonAnywhere](https://www.pythonanywhere.com/)
+* [Twilio](https://twilio.com/)
+
+**Thoughts**
+* This is the first time that I have ever sent SMS messages from a script, so this was 
+  a lot of fun to finish. I did not realize how cheap it is, either. A mere $0.0079 
+  per message for the Pay-as-You-Go plan! I am on a free trial with $15.00 worth of 
+  credits, where $1.50 of that goes to the number, leaving $13.50 for messages. If you 
+  do the math, that is a LOT of messages, so much so that this particular app could 
+  notify me that it is raining every single day for 4.5 years before it runs out of 
+  credits. That is insane! I think I might be using SMS for more projects in the 
+  future. PythonAnywhere is running the script every day at 6:00 AM, but this is the 
+  only task that can run on the free plan, so I will either have pay the $5/month to 
+  get up to 20 tasks, or I will just need to host my own server. I have a hosting plan 
+  already with one domain still available to use, so perhaps I will use that to run 
+  cron jobs and web apps. Either way, this was a lot of fun to learn and play with.
+
 ### Day 35: August 5, 2023
 
 **Today's Progress**
