@@ -1,6 +1,29 @@
 # 100 Days of Python - Log
 
-### Day 36: August 5, 2023
+### Day 37: August 7, 2023
+
+**Today's Progress**
+* Completed Day 36 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
+](https://www.udemy.com/course/100-days-of-code/)
+
+**Link to Work**
+* [Stock News](https://github.com/StingzLD/stock-news)
+
+**External Links**
+* [Alpha Vantage (Stock Maret API)](https://www.alphavantage.co/)
+* [News API](https://newsapi.org/)
+* [Twilio](https://twilio.com/)
+
+**Thoughts**
+* Although the stock market does not really interest me, I found the API for acquiring 
+  news articles kind of intriguing. I do not necessarily have any use for it at the 
+  moment, but the possibilities for querying anything you are interested in are 
+  seemingly endless. My dad has been wanting to get into the stock market, though, so 
+  this whole app could actually be of use in the near future. I need to look further 
+  at the API's documentation, but it would be nice to be able to retrieve stock data 
+  for multiple stocks using a single GET call.
+
+### Day 36: August 6, 2023
 
 **Today's Progress**
 * Completed Day 35 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
