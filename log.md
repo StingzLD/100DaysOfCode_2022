@@ -1,6 +1,6 @@
 # 100 Days of Python - Log
 
-### Day 37: August 7, 2023
+### August 7, 2023
 
 **Today's Progress**
 * Completed Day 36 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
@@ -23,7 +23,7 @@
   at the API's documentation, but it would be nice to be able to retrieve stock data 
   for multiple stocks using a single GET call.
 
-### Day 36: August 6, 2023
+### August 6, 2023
 
 **Today's Progress**
 * Completed Day 35 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
@@ -54,7 +54,7 @@
   already with one domain still available to use, so perhaps I will use that to run 
   cron jobs and web apps. Either way, this was a lot of fun to learn and play with.
 
-### Day 35: August 5, 2023
+### August 5, 2023
 
 **Today's Progress**
 * Started Day 35 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
@@ -92,7 +92,7 @@
   IDE for that matter). It made sifting through the massive amount of weather data 
   incredibly easy.
 
-### Day 34: August 4, 2023
+### August 4, 2023
 
 **Today's Progress**
 * Completed Day 34 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
@@ -127,7 +127,7 @@
 
   Happy coding, everyone!
 
-### Day 33: January 12, 2023
+### January 12, 2023
 
 **Today's Progress**
 * Completed Day 32 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
@@ -168,7 +168,7 @@
   it is after, then the current time must be both before sunrise _and_ after sunset. 
   If sunset is before 00:00, then it can only be one or the other.
 
-### Day 32: January 11, 2023
+### January 11, 2023
 
 **Today's Progress**
 * Completed Day 31 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
@@ -190,7 +190,7 @@
   was unable to remove the border around the button images, but I can always update the
   code once I come across an answer. 
 
-### Day 31: January 10, 2023
+### January 10, 2023
 
 **Today's Progress**
 * Completed Day 30 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
@@ -220,7 +220,7 @@
   be made to two files, so I should probably put in logic that detects the OS and have
   everything handled accordingly, but for now this will do.
 
-### Day 30: January 9, 2023
+### January 9, 2023
 
 **Today's Progress**
 * Continued developing Password Manager from Day 29 of the  
@@ -252,7 +252,7 @@
   on an ugly side effect, which was messing up the entire layout for some reason. I 
   vouched to remove it for now, but that is something still on the radar to fix.
 
-### Day 29: January 8, 2023
+### January 8, 2023
 
 **Today's Progress**
 * Completed Day 29 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
@@ -274,7 +274,7 @@
   requirement of a password to open the file and encryption to keep wandering fingers 
   and eyes away.
 
-### Day 28: January 7, 2023
+### January 7, 2023
 
 **Today's Progress**
 * Completed Day 28 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
@@ -290,7 +290,7 @@
   going to take and run with on another project, as pretty much every element in this 
   project can be used for another timer I am wanting to make. Good stuff!
 
-### Day 27: January 6, 2023
+### January 6, 2023
 
 **Today's Progress**
 * Completed Day 27 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
@@ -308,7 +308,7 @@
   start that journey of learning how to do it. And now that I have the basics down, I can
   create essentially whatever basic application's GUI I want.
 
-### Day 26: January 5, 2023
+### January 5, 2023
 
 **Today's Progress**
 * Completed Day 26 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
@@ -325,7 +325,7 @@
   did not even know those existed! And to add a cherry on top, I got to work with pandas 
   DataFrames data using the dictionary comprehension. So all-in-all, it was a great day.
 
-### Day 25: January 4, 2023
+### January 4, 2023
 
 **Today's Progress**
 * Completed Day 25 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
@@ -342,7 +342,7 @@
   iteration of it definitely works. What I would like to add, though, is a way to click
   on a state and then see if you answer it correctly.
 
-### Day 24: January 3, 2023
+### January 3, 2023
 
 **Today's Progress**
 * Completed Day 24 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
@@ -361,7 +361,7 @@
   merger project in the Replit above for automatically creating personalized invites 
   based on a list of names. 
 
-### Day 23: January 2, 2023
+### January 2, 2023
 
 **Today's Progress**
 * Completed Day 23 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
@@ -384,7 +384,7 @@
 * If you are looking at the code, you may notice an easter egg in there (or two). If you 
   notice it and understand the reference, let me know!
 
-### Day 22: January 1, 2023
+### January 1, 2023
 
 **Today's Progress**
 * Completed Day 22 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
@@ -416,7 +416,7 @@
   and stopped when you expected it to, you would never intentionally move it past the 
   walls.
 
-### Day 21: December 31, 2022
+### December 31, 2022
 
 **Today's Progress**
 * Completed Day 21 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
@@ -434,7 +434,7 @@
   centered on the snake, so it is a bit awkward at times, but it still works. This is 
   something that can be improved upon in the future, though. See you all in the new year!
 
-### Day 20: December 30, 2022
+### December 30, 2022
 
 **Today's Progress**
 * Completed Day 20 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
@@ -454,7 +454,7 @@
   really making it click more because it is something I have been thinking about doing 
   anyway. Not the snake game itself, per se, but making a game period.
 
-### Day 19: December 29, 2022
+### December 29, 2022
 
 **Today's Progress**
 * Completed Day 19 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
@@ -478,7 +478,7 @@
   based on the sizes chosen for the screen width and height. What can I say? I am a 
   stickler for improving things.
 
-### Day 18: December 28, 2022
+### December 28, 2022
 
 **Today's Progress**
 * Completed Day 18 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
@@ -500,7 +500,7 @@
   fun little project that had me use a new module I have never touched, as well as use 
   some more of the turtle module that I have never used before.
 
-### Day 17: December 27, 2022
+### December 27, 2022
 
 **Today's Progress**
 * Completed Day 17 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
@@ -522,7 +522,7 @@
   started working on, and I updated the README.md file to 
   specify that more work is to be done on it.
 
-### Day 16: December 23, 2022
+### December 23, 2022
 
 **Today's Progress**
 * Completed Day 16 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
@@ -541,7 +541,7 @@
   perform various tasks based on the data within them. So even though today's exercise was
   just a conversion of the coffee machine code, it was definitely good practice.
 
-### Day 15: December 22, 2022
+### December 22, 2022
 
 **Today's Progress**
 * Completed Day 15 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
@@ -555,7 +555,7 @@
   making a vending machine style program before, so it was good for my brain to get 
   that experience in.
 
-### Day 14: December 21, 2022
+### December 21, 2022
 
 **Today's Progress**
 * Completed Day 14 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
@@ -573,7 +573,7 @@
   never be used more than once. I mean, I get it. They want to showcase everything 
   that has been learned up to this point, but it was truly unnecessary in my opinion.
 
-### Day 13: December 20, 2022
+### December 20, 2022
 
 **Today's Progress**
 * Completed Day 12 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
@@ -596,7 +596,7 @@
   so long on the Blackjack game, this allowed me to complete two "days" in one day, so 
   I am now all caught up!
 
-### Day 12: December 19, 2022
+### December 19, 2022
 
 **Today's Progress**
 * Completed Day 11 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
@@ -618,7 +618,7 @@
   calling it done for the time being. I may still work on it on the side, but it will 
   definitely be lower priority than anything else until I complete the course.
 
-### Day 11: December 18, 2022
+### December 18, 2022
 
 **Today's Progress**
 * Started Day 11 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
@@ -633,7 +633,7 @@
   and play catch up.
 
 
-### Day 10: December 17, 2022
+### December 17, 2022
 
 **Today's Progress**
 * Completed Day 10 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
@@ -648,7 +648,7 @@
   simplistic, as the arithmetic is built-in to Python already, it is always nice to 
   create something that is actually useful.
 
-### Day 9: December 16, 2022
+### December 16, 2022
 
 **Today's Progress**
 * Completed Day 9 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
@@ -663,7 +663,7 @@
   for me to learn today. But of course, it is always good to get some practice in to 
   keep it fresh in your mind.
 
-### Day 8: December 15, 2022
+### December 15, 2022
 
 **Today's Progress**
 * Completed Day 8 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
@@ -677,7 +677,7 @@
 * Sadly, there was nothing new with today's work, as I have already created Caesar 
   Cipher scripts before. However, it was a good refresher on the topic.
 
-### Day 7: December 14, 2022
+### December 14, 2022
 
 **Today's Progress**
 * Completed Day 7 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
@@ -697,7 +697,7 @@
   so this will be something nice to show them and play over the upcoming Christmas 
   break.  
 
-### Day 6: December 13, 2022
+### December 13, 2022
 
 **Today's Progress**
 * Completed Day 6 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
@@ -713,7 +713,7 @@
   your usual while loop exercises. This is something I will probably end up showing to 
   the kids when they want to move on from blockly and start learning Python.
 
-### Day 5: December 12, 2022
+### December 12, 2022
 
 **Today's Progress**
 * Completed Day 5 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
@@ -731,7 +731,7 @@
   before, so it was pretty nifty to learn something new. I am definitely going to 
   continue to refine this password generator and cater it towards my exact needs.
 
-### Day 4: December 11, 2022
+### December 11, 2022
 
 **Today's Progress**
 * Completed Day 4 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
@@ -750,7 +750,7 @@
   while also maintaining the detailed results of the game. For now, though, the game 
   is fully functional and a fun way to kill a minute or two.
 
-### Day 3: December 10, 2022
+### December 10, 2022
 
 **Today's Progress**
 * Completed Day 3 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
@@ -765,7 +765,7 @@
   **Treasure Island**. If you want to take a peek at it, just head hit the Replit link 
   above and take a look at the treasure-island.py file.
 
-### Day 2: December 9, 2022
+### December 9, 2022
 
 **Today's Progress**
 * Completed Day 2 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
@@ -779,7 +779,7 @@
   the motions, as there may be a piece of information I did not know or a trick that I 
   might learn. Either way, Day 2 complete!
 
-### Day 1: December 8, 2022
+### December 8, 2022
 
 **Today's Progress**
 * Completed Day 1 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
