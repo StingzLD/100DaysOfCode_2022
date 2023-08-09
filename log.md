@@ -1,5 +1,37 @@
 # 100 Days of Python - Log
 
+### August 8, 2023
+
+**Today's Progress**
+* Completed Day 37 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
+](https://www.udemy.com/course/100-days-of-code/)
+
+**Link to Work**
+* [Habit Tracker](https://github.com/StingzLD/habit-tracker)
+
+**External Links**
+* [Pixela](https://pixe.la/)
+
+**Thoughts**
+* I never really thought about the pixel graph on my GitHub page as being a "habit" 
+  tracker, but it most definitely is. Now whether they made it first, or Pixela did 
+  and GitHub just thought it was a great idea and implemented it, is something I am 
+  curious about. Either way, implementing my own version of it is pretty cool. 
+  Naturally, though, just doing the minimum amount of work was not enough for me. 
+  Having a bunch of commented out code that you then need to uncomment specific 
+  sections to use it is just messy and a nightmare to work with. So what did I do? 
+  Make it user-friendly, of course! There is more I could add, and I probably will do 
+  so, but converting everything into functions, having it prompt the user for actions 
+  and inputs, and having it loop until the user is done making changes is really nice. 
+* In looking further at the documentation, I see that there is a stopwatch API, as well, 
+  which will start the stopwatch on the first request. The second request will stop 
+  the stopwatch, as well as update that day's pixel. What is really neat is the fact 
+  that when it updates, it actually adds to the existing value for that day. This 
+  is really nice and much better than having to manually add the values together and 
+  update the pixel accordingly. I will probably work on this functionality tomorrow, 
+  so I can keep track of just how much time I am actually spending on these projects. 
+  My guess is way more than I really have time for. 
+
 ### August 7, 2023
 
 **Today's Progress**
