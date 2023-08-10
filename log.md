@@ -1,5 +1,23 @@
 # 100 Days of Python - Log
 
+### August 9, 2023
+
+**Today's Progress**
+* Started Day 38 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
+](https://www.udemy.com/course/100-days-of-code/)
+
+**Link to Work**
+* [Exercise Tracker](https://github.com/StingzLD/exercise-tracker)
+
+**External Links**
+* [Nutritionix](https://nutritionix.com/)
+
+**Thoughts**
+* So far there is nothing crazy about this project, just more API calls. I did not get 
+  terribly far into it today, though. That is mainly due to the fact that I ended up 
+  creating a webhook in Slack for the Pixela Stopwatch! Now I can see exactly how long I 
+  am coding for. No more guessing!
+
 ### August 8, 2023
 
 **Today's Progress**
