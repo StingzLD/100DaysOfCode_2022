@@ -1,5 +1,50 @@
 # 100 Days of Python - Log
 
+### August 10, 2023
+
+**Today's Progress**
+* Completed Pixela Stopwatch Slack App
+
+**Link to Work**
+* [Habit Tracker](https://github.com/StingzLD/habit-tracker)
+
+**External Links**
+* [Pixela](https://pixe.la/)
+* [Slack API](https://api.slack.com/)
+
+**Thoughts**
+* Turns out the timer I created yesterday did not work as I thought it would, but that 
+  is also partially my fault. I noticed that whenever I used the slash command I 
+  created in Slack, it never actually started or stopped a stopwatch. It only ever 
+  incremented the quantity by one. After looking into it, I realized that I was just 
+  following the basic webhook creation, which used the type of "increment". The 
+  stopwatch webhook actually required the type of, you guessed it, "stopwatch".
+
+  Before going through the process of editing and redeploying the app in Slack, I 
+  decided it was better to just update my habit tracker code by adding in functions for 
+  the stopwatch webhook creation and starting/stopping the stopwatch. I started with 
+  the easier piece, which was the latter. You can start and stop the stopwatch without 
+  the webhook, if you just use the token, which is what the rest of the code uses. 
+  Because fo this, implementing that was a piece of cake, and I was able to start the 
+  stopwatch without issue. I even noticed that the return text literally says 
+  "Stopwatch start successful", which I have never seen before, so that verifies that 
+  this was a much greater success than before!
+
+  The webhook creation function should have been just as easy, but I ran into a JSON 
+  serialization error that just made no sense to me because I was doing everything 
+  exactly the same as other functions I have created and were working just fine. After 
+  fumbling with it for way, way, way too long, I finally realized what the issue was. The 
+  value for "graphID" was using curly brackets around the variable (I had just copied 
+  and pasted that part of the URL string), which meant the interpreter was thinking 
+  the variable was a key in another dictionary, which clearly had no value so was 
+  malformed. Once I noticed that, I immediately removed them, and voila! Worked like a 
+  charm.
+
+  Now that the code update was finished and I had my new stopwatch webhook hash string,
+  I edited and redeployed the Slack app. I tested the slash command, and it stopped 
+  the stopwatch and added the appropriate amount of minutes to the quantity for 
+  today's pixel. Very nice!
+
 ### August 9, 2023
 
 **Today's Progress**
