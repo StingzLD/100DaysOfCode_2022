@@ -1,5 +1,33 @@
 # 100 Days of Python - Log
 
+### August 12, 2023
+
+**Today's Progress**
+* Started Day 39 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
+](https://www.udemy.com/course/100-days-of-code/)
+
+**Link to Work**
+* [Flight Deals](https://github.com/StingzLD/flight-deals)
+
+**External Links**
+* [Tequila (flight search API by Kiwi)](https://tequila.kiwi.com/)
+* [Sheety](https://sheety.co/)
+
+**Thoughts**
+* What a great capstone project, and it is one that I will actually use! The purpose of 
+  this app is to pull in data from a Google Sheet using the Sheety API and determine if 
+  flights to the cities in the sheet are found via the Tequila API for less than the 
+  thresholds defined per ciy in the sheet. Of course, it is a little more involved than 
+  that, as you are actually pulling in data from Tequila to update IATA city codes for 
+  the cities on the list, then you end up using that data to look for flights to/from 
+  all airports in that city code. I have not got to the latter part of the app yet, 
+  though, so for now it does everything else.
+* This was all written using OOP, which you might think is overkill, and in its 
+  current form you are absolutely correct. However, this is all just Part 1 of the 
+  capstone project. The next part builds on all of this. How? We shall find out in 
+  another day or two! Regardless, writing the code using classes was a good way to 
+  knock of the cobwebs and get my brain back in that mindset.
+
 ### August 11, 2023
 
 **Today's Progress**
