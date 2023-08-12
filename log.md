@@ -1,5 +1,47 @@
 # 100 Days of Python - Log
 
+### August 11, 2023
+
+**Today's Progress**
+* Completed Day 38 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
+](https://www.udemy.com/course/100-days-of-code/)
+
+**Link to Work**
+* [Exercise Tracker](https://github.com/StingzLD/exercise-tracker)
+* [Replit Version (adds timezone conversion)](
+https://replit.com/@StingzLD/100DaysOfPython-Day-38-exercise-tracker)
+
+**External Links**
+* [Nutritionix](https://nutritionix.com/)
+* [Sheety](https://sheety.co/)
+
+**Thoughts**
+* The first part of the project I should have replaced with something I am actually 
+  interested in, as counting calories (especially getting artificial values for 
+  exercises) is such a waste of time. Sure, calorie intake is important, but getting 
+  your macros in order is much more important. You can eat a perfect amount of 
+  calories every day in chocolate, but if it is all sugar, how does that really benefit 
+  you? At the end of the day, this tracker is less useful than just Pixel. If you are 
+  going to track exercises, tracking actual workout information (type, weight, reps, 
+  sets, etc.) in order to show how you have progressed over time is going to be more 
+  beneficial, in my opinion.
+* Not that my little rant is over (sorry!), what I did really enjoy was using Sheety 
+  to automatically populate the Google Sheets doc. This is super useful, and I can 
+  definitely see using it again in the future. There was one quirk that took me a long 
+  while to figure out what was going on, but I got it resolved, and everything is 
+  working as intended now. The problem I ran into was a 400 Bad Request when calling 
+  the Sheety API. The JSON body was supposed to be "nested in a singular root property 
+  named after your sheet." My sheet was called "workouts", as is evident by the endpoint 
+  url. Undoubtedly, the root property was not actually supposed to be "workouts", but 
+  instead "workout" (without the "s"). I have zero idea why, as that makes zero sense 
+  to me, but at the end of the day the why does not really matter, as long as it works.
+  All-in-all, I will definitely be using Sheety again.
+* The only additional part to this project was throwing it up in Replit to run from 
+  wherever, which actually required a code change. Because the timezone of their 
+  servers are UTC, I had to add in a new library that would convert the timezone to 
+  the proper one. Nothing major, but it was another good library that I have not used 
+  before but very likely will need again in the future.
+
 ### August 10, 2023
 
 **Today's Progress**
