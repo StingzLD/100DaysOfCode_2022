@@ -1,5 +1,30 @@
 # 100 Days of Python - Log
 
+### August 22, 2023
+
+**Today's Progress**
+* Continued Day 39 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
+](https://www.udemy.com/course/100-days-of-code/)
+
+**Link to Work**
+* [Flight Deals](https://github.com/StingzLD/flight-deals)
+
+**External Links**
+* [Tequila (flight search API by Kiwi)](https://tequila.kiwi.com/)
+* [Sheety](https://sheety.co/)
+
+**Thoughts**
+* Today was all about actually searching for the actual flights, collecting and 
+  parsing that data, then presenting the information we want to know. You could very 
+  easily spend hours (do not ask how I know) just playing with the API. There are so 
+  many different variables at play here, so figuring out just the right ones without 
+  limiting yourself too much (or too little) is a careful balance. I am sure I will be 
+  updating this extensively, and I will probably be creating my own website to search 
+  for flights in the future. Depending on how extensive I get with it, I could even 
+  have others I know use it. I mean, I already have the "business" setup on Kiwi, so 
+  if I do create the website and have others use it, I will end up getting 3% of the 
+  sales when they purchase using the booking link.
+
 ### August 12, 2023
 
 **Today's Progress**
