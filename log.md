@@ -1,5 +1,30 @@
 # 100 Days of Python - Log
 
+### August 23, 2023
+
+**Today's Progress**
+* Completed Day 39 of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023
+](https://www.udemy.com/course/100-days-of-code/)
+
+**Link to Work**
+* [Flight Deals](https://github.com/StingzLD/flight-deals)
+
+**External Links**
+* [Tequila (flight search API by Kiwi)](https://tequila.kiwi.com/)
+* [Sheety](https://sheety.co/)
+
+**Thoughts**
+* It always feels good when you complete a project! Today was wrapping up with some SMS 
+  work via the Twilio API and a new class to manage the notifications with. I ran into a 
+  couple small hiccups when no flights were being returned for certain cities, but I was 
+  able to come up with a solution to fix that. If you do not succeed the first time, 
+  then try and try again, except...
+* Something that is not a part of this, but that I did work on, was creating a script 
+  to create PostgreSQL databases and working with them. It was actually really simple 
+  to do, once I found the right Python package to install. The documentation for it 
+  was quite good, so I had the database created, data flowing into it, and queries 
+  being made on it in no time!
+
 ### August 22, 2023
 
 **Today's Progress**
