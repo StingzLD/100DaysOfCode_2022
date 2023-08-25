@@ -1,5 +1,22 @@
 # 100 Days of Python - Log
 
+### August 24, 2023
+
+**Today's Progress**
+* Added probability of precipitation logic to the SMS Rain Alert
+* Found a potential bug in Python's code
+
+**Link to Work**
+* [SMS Rain Alert](https://github.com/StingzLD/sms-rain-alert)
+* [Potential Bug](https://github.com/StingzLD/de-morgan-laws/blob/main/de-morgan-laws.ipynb)
+
+**Thoughts**
+* Well today ended up being more eventful than I had anticipated. I was planning on 
+  starting Day 40's project, however finding a potential bug in Python's code kind of 
+  derailed me. I ended up running a few different things to test what I was seeing and 
+  make sure I was not just making a mistake, but in the end, I am pretty sure this is 
+  a bug. As such, I decided to create a Jupyter Notebook describing what I found. 
+
 ### August 23, 2023
 
 **Today's Progress**
